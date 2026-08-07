@@ -16,10 +16,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0027-remove-element/) | Easy |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0027-remove-element/) | Easy |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
