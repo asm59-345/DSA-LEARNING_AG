@@ -36,4 +36,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0203-remove-linked-list-elements](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0203-remove-linked-list-elements/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0203-remove-linked-list-elements](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0203-remove-linked-list-elements/) | Easy |
 <!---LeetCode Topics End-->
