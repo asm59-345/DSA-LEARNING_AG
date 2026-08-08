@@ -102,4 +102,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/2334-subarray-with-elements-greater-than-varying-threshold/) | Hard |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
