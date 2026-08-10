@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0189-rotate-array/) | Medium |
+| [1510-stone-game-iv](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1510-stone-game-iv/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Enumeration
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0055-jump-game/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [1510-stone-game-iv](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1510-stone-game-iv/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -106,4 +108,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1510-stone-game-iv/) | Hard |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1510-stone-game-iv/) | Hard |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1510-stone-game-iv/) | Hard |
+## Sprague–Grundy Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1510-stone-game-iv/) | Hard |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1510-stone-game-iv/) | Hard |
 <!---LeetCode Topics End-->
