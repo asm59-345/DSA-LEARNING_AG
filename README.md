@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0135-candy/) | Hard |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0189-rotate-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0125-valid-palindrome](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0189-rotate-array/) | Medium |
 | [0392-is-subsequence](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0392-is-subsequence/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -238,4 +240,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0068-text-justification](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0068-text-justification/) | Hard |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 <!---LeetCode Topics End-->
