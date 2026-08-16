@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0189-rotate-array/) | Medium |
+| [0392-is-subsequence](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0392-is-subsequence/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0068-text-justification](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0068-text-justification/) | Hard |
 | [0125-valid-palindrome](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0392-is-subsequence](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0392-is-subsequence/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -133,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0055-jump-game/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0392-is-subsequence](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0392-is-subsequence/) | Easy |
 | [1510-stone-game-iv](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1510-stone-game-iv/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Stack
