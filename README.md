@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0042-trapping-rain-water](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0042-trapping-rain-water/) | Hard |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0125-valid-palindrome](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0189-rotate-array/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0058-length-of-last-word/) | Easy |
 | [0068-text-justification](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0068-text-justification/) | Hard |
+| [0125-valid-palindrome](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
