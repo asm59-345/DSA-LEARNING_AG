@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0058-length-of-last-word/) | Easy |
 | [0068-text-justification](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0068-text-justification/) | Hard |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0022-generate-parentheses/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
@@ -150,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0055-jump-game/) | Medium |
@@ -261,4 +264,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
