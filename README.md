@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0015-3sum/) | Medium |
 | [0027-remove-element](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0027-remove-element/) | Easy |
+| [0036-valid-sudoku](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0036-valid-sudoku/) | Medium |
 | [0042-trapping-rain-water](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0055-jump-game/) | Medium |
@@ -132,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [0036-valid-sudoku](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0036-valid-sudoku/) | Medium |
 | [0076-minimum-window-substring](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0076-minimum-window-substring/) | Hard |
 | [0169-majority-element](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0169-majority-element/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
@@ -281,4 +283,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0022-generate-parentheses/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0036-valid-sudoku](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0036-valid-sudoku/) | Medium |
 <!---LeetCode Topics End-->
