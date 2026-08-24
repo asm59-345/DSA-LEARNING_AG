@@ -5,26 +5,26 @@ class Solution:
         left, right = 0, len(matrix[0]) - 1
 
         while top <= bottom and left <= right:
-            # Right
-            for c in range(left, right + 1):
-                res.append(matrix[top][c])
+            # 1. Traverse top row
+            for col in range(left, right + 1):
+                res.append(matrix[top][col])
             top += 1
 
-            # Down
-            for r in range(top, bottom + 1):
-                res.append(matrix[r][right])
+            # 2. Traverse right column
+            for row in range(top, bottom + 1):
+                res.append(matrix[row][right])
             right -= 1
 
-            # Left
+            # 3. Traverse bottom row (if boundary remains valid)
             if top <= bottom:
-                for c in range(right, left - 1, -1):
-                    res.append(matrix[bottom][c])
+                for col in range(right, left - 1, -1):
+                    res.append(matrix[bottom][col])
                 bottom -= 1
 
-            # Up
+            # 4. Traverse left column (if boundary remains valid)
             if left <= right:
-                for r in range(bottom, top - 1, -1):
-                    res.append(matrix[r][left])
+                for row in range(bottom, top - 1, -1):
+                    res.append(matrix[row][left])
                 left += 1
 
         return res
