@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [1927-sum-game](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1927-sum-game/) | Medium |
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter/) | Hard |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Backtracking
@@ -233,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0030-substring-with-concatenation-of-all-words](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0076-minimum-window-substring](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0076-minimum-window-substring/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
