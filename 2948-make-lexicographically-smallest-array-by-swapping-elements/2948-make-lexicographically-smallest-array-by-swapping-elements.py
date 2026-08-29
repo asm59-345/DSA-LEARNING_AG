@@ -1,25 +1,23 @@
+from collections import deque
+
 class Solution:
     def lexicographicallySmallestArray(self, nums: list[int], limit: int) -> list[int]:
-        n = len(nums)
+        sorted_nums = sorted(nums)
         
-        sorted_nums = sorted([(val, idx) for idx, val in enumerate(nums)])
+        groups = []        
+        val_to_group = {}  
         
-        result = [0] * n
-        
-        i = 0
-        while i < n:
-            j = i
+        for num in sorted_nums:
+            if not groups or num - groups[-1][-1] > limit:
+                groups.append(deque())
             
-            while j + 1 < n and sorted_nums[j + 1][0] - sorted_nums[j][0] <= limit:
-                j += 1
+            groups[-1].append(num)
+            val_to_group[num] = len(groups) - 1
             
-            indices = sorted([sorted_nums[k][1] for k in range(i, j + 1)])
-            
-            for k in range(i, j + 1):
-                val = sorted_nums[k][0]
-                idx = indices[k - i]
-                result[idx] = val
-            
-            i = j + 1
+        result = []
+        for num in nums:
+            group_idx = val_to_group[num]
+            smallest_val = groups[group_idx].popleft()  
+            result.append(smallest_val)
             
         return result
