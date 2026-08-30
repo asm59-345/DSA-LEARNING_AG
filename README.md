@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0380-insert-delete-getrandom-o1](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [1563-stone-game-v](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1563-stone-game-v/) | Hard |
 | [2029-stone-game-ix](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/2029-stone-game-ix/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/2334-subarray-with-elements-greater-than-varying-threshold/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1927-sum-game](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/2029-stone-game-ix/) | Medium |
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter/) | Hard |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
