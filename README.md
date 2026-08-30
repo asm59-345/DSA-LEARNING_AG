@@ -222,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0584-find-customer-referee](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0595-big-countries/) | Easy |
+| [1148-article-views-i](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1148-article-views-i/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 ## Minimax
 | Problem Name | Difficulty |
