@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -289,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0238-product-of-array-except-self/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
