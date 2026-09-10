@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0049-group-anagrams/) | Medium |
 | [0054-spiral-matrix](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0055-jump-game/) | Medium |
+| [0056-merge-intervals](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0056-merge-intervals/) | Medium |
 | [0068-text-justification](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0068-text-justification/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0049-group-anagrams/) | Medium |
+| [0056-merge-intervals](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0056-merge-intervals/) | Medium |
 | [0169-majority-element](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0242-valid-anagram/) | Easy |
 | [0274-h-index](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0274-h-index/) | Medium |
@@ -354,4 +356,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
