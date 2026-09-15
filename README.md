@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0058-length-of-last-word/) | Easy |
 | [0068-text-justification](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0068-text-justification/) | Hard |
+| [0071-simplify-path](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0071-simplify-path/) | Medium |
 | [0076-minimum-window-substring](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -243,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0042-trapping-rain-water/) | Hard |
+| [0071-simplify-path](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0071-simplify-path/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter/) | Hard |
 | [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/2334-subarray-with-elements-greater-than-varying-threshold/) | Hard |
