@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0380-insert-delete-getrandom-o1](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [1510-stone-game-iv](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1563-stone-game-v/) | Hard |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1927-sum-game](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/2029-stone-game-ix/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -236,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0392-is-subsequence/) | Easy |
 | [1510-stone-game-iv](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1563-stone-game-v/) | Hard |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -320,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0238-product-of-array-except-self/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Trie
@@ -383,4 +386,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0056-merge-intervals/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 <!---LeetCode Topics End-->
