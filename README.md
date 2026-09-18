@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0290-word-pattern](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0383-ransom-note/) | Easy |
 | [0392-is-subsequence](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0392-is-subsequence/) | Easy |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [1927-sum-game](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1927-sum-game/) | Medium |
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter/) | Hard |
@@ -147,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0134-gas-station](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0135-candy/) | Hard |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1927-sum-game](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/2029-stone-game-ix/) | Medium |
 | [2030-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/2030-smallest-k-length-subsequence-with-occurrences-of-a-letter/) | Hard |
@@ -193,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0380-insert-delete-getrandom-o1](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0383-ransom-note](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0383-ransom-note/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -213,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0242-valid-anagram/) | Easy |
 | [0274-h-index](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0274-h-index/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
