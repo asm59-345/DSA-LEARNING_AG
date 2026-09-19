@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0189-rotate-array/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [1401-circle-and-rectangle-overlapping](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1510-stone-game-iv](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1563-stone-game-v/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
@@ -399,4 +400,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 <!---LeetCode Topics End-->
