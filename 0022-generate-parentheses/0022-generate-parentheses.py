@@ -1,16 +1,19 @@
 class Solution:
-    def generateParenthesis(self, n: int) -> list[str]:
-        res = []
-        def dfs(s, open_count, close_count):
-            if len(s) == 2 * n:
-                res.append(s) 
-                return 
+    def generateParenthesis(self, n: int) -> List[str]:
+        memo = {0: [""]}
+        
+        def dp(k):
+            if k in memo:
+                return memo[k]
+            
+            ans = []
+            for c in range(k):
+                for left in dp(c):
+                    for right in dp(k - 1 - c):
+                        
+                        ans.append(f"({left}){right}")
+            
+            memo[k] = ans
+            return ans
 
-            if open_count < n:
-                dfs(s + "(", open_count + 1, close_count)
-                
-            if close_count < open_count:
-                dfs(s + ")", open_count, close_count + 1)
-                
-        dfs("", 0, 0)
-        return res
+        return dp(n)
