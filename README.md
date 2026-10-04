@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0290-word-pattern](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0383-ransom-note/) | Easy |
 | [0392-is-subsequence](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0392-is-subsequence/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0134-gas-station](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0135-candy/) | Hard |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1927-sum-game](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/2029-stone-game-ix/) | Medium |
@@ -252,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0392-is-subsequence](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0392-is-subsequence/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1510-stone-game-iv](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1563-stone-game-v/) | Hard |
@@ -266,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0042-trapping-rain-water/) | Hard |
 | [0071-simplify-path](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0071-simplify-path/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -396,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0022-generate-parentheses/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
