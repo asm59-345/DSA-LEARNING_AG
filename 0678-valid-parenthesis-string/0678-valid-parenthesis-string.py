@@ -1,21 +1,25 @@
 class Solution:
     def checkValidString(self, s: str) -> bool:
-        low = high = 0
+        open_stack =[]
+        star_stack = []
 
 
-        for char in s:
-            if char =='(':
-                low += 1
-                high += 1
-            elif char == ')':
-                low -= 1
-                high -= 1
-            else : 
-                low -= 1
-                high += 1
-            
-            if high < 0:
+        for i , char in enumerate (s):
+            if char == '(':
+                open_stack.append(i)
+            elif char == '*':
+                star_stack.append(i)
+            else:
+                if open_stack:
+                    open_stack.pop()
+                elif star_stack:
+                    star_stack.pop()
+                else:
+                    return False
+        while open_stack and star_stack:
+            if open_stack.pop() > star_stack.pop():
                 return False
-            if low< 0:
-                low = 0
-        return low ==0
+        
+
+        return len(open_stack) == 0
+        
