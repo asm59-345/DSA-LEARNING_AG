@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/2334-subarray-with-elements-greater-than-varying-threshold/) | Hard |
+| [2778-sum-of-squares-of-special-elements](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
