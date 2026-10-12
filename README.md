@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0048-rotate-image/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0189-rotate-array/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0134-gas-station](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0135-candy/) | Hard |
+| [0150-evaluate-reverse-polish-notation](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0189-rotate-array/) | Medium |
@@ -283,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0042-trapping-rain-water/) | Hard |
 | [0071-simplify-path](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0071-simplify-path/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0155-min-stack/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0856-score-of-parentheses/) | Medium |
