@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0048-rotate-image/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0189-rotate-array/) | Medium |
+| [0224-basic-calculator](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0224-basic-calculator/) | Hard |
 | [0380-insert-delete-getrandom-o1](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1510-stone-game-iv](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1510-stone-game-iv/) | Hard |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0205-isomorphic-strings/) | Easy |
+| [0224-basic-calculator](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0224-basic-calculator/) | Hard |
 | [0242-valid-anagram](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0383-ransom-note/) | Easy |
@@ -198,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0203-remove-linked-list-elements/) | Easy |
+| [0224-basic-calculator](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0224-basic-calculator/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -287,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0071-simplify-path](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0071-simplify-path/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0155-min-stack/) | Medium |
+| [0224-basic-calculator](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0224-basic-calculator/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
