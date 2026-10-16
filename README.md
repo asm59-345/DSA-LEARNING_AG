@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0002-add-two-numbers/) | Medium |
 | [0012-integer-to-roman](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0048-rotate-image/) | Medium |
@@ -198,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0141-linked-list-cycle/) | Easy |
@@ -205,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0224-basic-calculator](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0224-basic-calculator/) | Hard |
