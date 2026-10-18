@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0002-add-two-numbers/) | Medium |
 | [0012-integer-to-roman](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0013-roman-to-integer/) | Easy |
+| [0029-divide-two-integers](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0029-divide-two-integers/) | Medium |
 | [0048-rotate-image](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0048-rotate-image/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0189-rotate-array/) | Medium |
@@ -409,6 +410,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0029-divide-two-integers/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
