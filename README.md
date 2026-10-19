@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2029-stone-game-ix](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/2029-stone-game-ix/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/2334-subarray-with-elements-greater-than-varying-threshold/) | Hard |
@@ -266,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0274-h-index](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0274-h-index/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [2089-find-target-indices-after-sorting-array](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -445,6 +447,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Bracket Sequences
