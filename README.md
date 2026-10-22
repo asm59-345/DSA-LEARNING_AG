@@ -212,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0138-copy-list-with-random-pointer](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0141-linked-list-cycle/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0203-remove-linked-list-elements/) | Easy |
 ## Recursion
@@ -236,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0076-minimum-window-substring/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0205-isomorphic-strings/) | Easy |
