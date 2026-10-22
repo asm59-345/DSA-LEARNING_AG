@@ -1,20 +1,18 @@
 class Solution:
-    def copyRandomList(self, head: 'Optional[Node]') -> 'Optional[Node]':
-        if not head : 
-            return None
-        map = {}
-        curr = head
+    def copyRandomList(self, head):
 
-        while curr:
-            map[curr] = Node(curr.val)
-            curr = curr.next
+        mp = {None: None}
+        cur = head
 
-        curr = head
+        while cur:
+            mp[cur] = Node(cur.val)
+            cur = cur.next
 
-        while curr:
-            new_node = map[curr]
-            new_node.next = map.get(curr.next)
-            new_node.random = map.get(curr.random)
-            curr = curr.next
-        return map[head]
+        cur = head
 
+        while cur:
+            mp[cur].next = mp[cur.next]
+            mp[cur].random = mp[cur.random]
+            cur = cur.next
+            
+        return mp[head]
