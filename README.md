@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0380-insert-delete-getrandom-o1](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0835-image-overlap](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0835-image-overlap/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1563-stone-game-v](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1563-stone-game-v/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -346,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/2334-subarray-with-elements-greater-than-varying-threshold/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -484,10 +486,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0289-game-of-life](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0289-game-of-life/) | Medium |
 | [0835-image-overlap](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0835-image-overlap/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
@@ -539,4 +543,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1254-number-of-closed-islands/) | Medium |
 <!---LeetCode Topics End-->
