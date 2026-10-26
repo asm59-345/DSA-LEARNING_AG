@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3525-find-x-value-of-array-ii](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -351,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/2334-subarray-with-elements-greater-than-varying-threshold/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -488,11 +490,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0835-image-overlap](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0835-image-overlap/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -547,4 +551,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1254-number-of-closed-islands/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 <!---LeetCode Topics End-->
