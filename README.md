@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -318,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3524-find-x-value-of-array-i/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -432,6 +434,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -491,6 +494,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1254-number-of-closed-islands](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
