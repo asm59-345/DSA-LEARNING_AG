@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3875-construct-uniform-parity-array-i](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3886-sum-of-sortable-integers/) | Hard |
@@ -175,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3498-reverse-degree-of-a-string](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -270,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0169-majority-element](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0169-majority-element/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -435,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
@@ -520,6 +524,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3525-find-x-value-of-array-ii](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3525-find-x-value-of-array-ii/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -532,10 +537,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -557,4 +564,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 <!---LeetCode Topics End-->
