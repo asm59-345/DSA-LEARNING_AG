@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3524-find-x-value-of-array-i](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3886-sum-of-sortable-integers](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Enumeration
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3665-twisted-mirror-path-count](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3875-construct-uniform-parity-array-i](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
