@@ -1,20 +1,19 @@
 class Solution:
     def countServers(self, grid: list[list[int]]) -> int:
-        m = len(grid)
-        n = len(grid[0])
+        m , n  = len(grid), len(grid[0])
 
-        row = [0]*m
-        col = [0]*n
+        rows = [0]*m
+        cols = [0]*n
 
         for i in range(m):
             for j in range(n):
-                if grid[i][j] == 1:
-                    row[i] += 1
-                    col[j] += 1
-        count = 0
+                if grid[i][j]:
+                    rows[i] += 1
+                    cols[j] += 1
+        ans = 0
+
         for i in range(m):
             for j in range(n):
-                if grid[i][j] == 1:
-                    if row[i] > 1 or col[j] > 1:
-                        count +=1
-        return count
+                if grid[i][j] and (rows[i]> 1 or cols[j] > 1):
+                    ans += 1
+        return ans
