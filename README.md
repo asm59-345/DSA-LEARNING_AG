@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3525-find-x-value-of-array-ii](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3886-sum-of-sortable-integers](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Enumeration
@@ -224,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
