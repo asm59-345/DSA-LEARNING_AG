@@ -249,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0092-reverse-linked-list-ii](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0141-linked-list-cycle/) | Easy |
+| [0146-lru-cache](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0146-lru-cache/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0203-remove-linked-list-elements/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -275,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0141-linked-list-cycle/) | Easy |
+| [0146-lru-cache](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0146-lru-cache/) | Medium |
 | [0169-majority-element](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0205-isomorphic-strings/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -456,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0146-lru-cache/) | Medium |
 | [0155-min-stack](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0155-min-stack/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 ## Randomized
@@ -649,4 +652,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
