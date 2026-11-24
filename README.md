@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2409-count-days-spent-together](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/2409-count-days-spent-together/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3411-maximum-subarray-with-equal-products](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3525-find-x-value-of-array-ii/) | Hard |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
@@ -109,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3331-find-subtree-sizes-after-changes](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -245,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3411-maximum-subarray-with-equal-products](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -464,6 +468,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Counting Sort
