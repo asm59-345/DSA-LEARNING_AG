@@ -578,6 +578,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -622,6 +623,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [3331-find-subtree-sizes-after-changes](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
@@ -636,6 +638,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Fermat's Little Theorem
 | Problem Name | Difficulty |
@@ -644,6 +647,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3331-find-subtree-sizes-after-changes](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
