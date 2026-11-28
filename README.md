@@ -269,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0086-partition-list](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0086-partition-list/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0092-reverse-linked-list-ii/) | Medium |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0141-linked-list-cycle/) | Easy |
 | [0146-lru-cache](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0146-lru-cache/) | Medium |
@@ -598,6 +599,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0226-invert-binary-tree/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1267-count-servers-that-communicate/) | Medium |
@@ -649,6 +651,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0226-invert-binary-tree/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [3331-find-subtree-sizes-after-changes](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
@@ -669,6 +672,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0226-invert-binary-tree/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Fermat's Little Theorem
@@ -681,6 +685,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/0226-invert-binary-tree/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/asm59-345/DSA-LEARNING_AG/tree/main/1267-count-servers-that-communicate/) | Medium |
